@@ -1,0 +1,7 @@
+package com.example.fractionfix.data.model
+
+enum class ThemeMode(val displayName: String) {
+    SYSTEM("System"),
+    LIGHT("Light"),
+    DARK("Dark")
+}
